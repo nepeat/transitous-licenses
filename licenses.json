@@ -921,6 +921,12 @@
       "custom_license": "Licencia Datos"
     },
     {
+      "file": "es_Ferrocarriles-de-la-Generalitat-de-Cataluña.gtfs.zip",
+      "spdx": "CC-BY-4.0",
+      "url": "https://dadesobertes.fgc.cat/explore/dataset/gtfs_routes/information/",
+      "custom_license": null
+    },
+    {
       "file": "es_Autobuses-Sarbus-–-La-Vallesana.gtfs.zip",
       "spdx": null,
       "url": "https://nap.transportes.gob.es/api/Fichero/download/1581",
